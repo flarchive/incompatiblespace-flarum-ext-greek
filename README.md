@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of incompatiblespace/flarum-ext-greek.** Not for installation: use [Packagist](https://packagist.org/packages/incompatiblespace/flarum-ext-greek) or the [upstream repository](https://github.com/incompatiblespace/flarum-ext-greek).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/incompatiblespace-flarum-ext-greek/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/incompatiblespace-flarum-ext-greek/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-10-31 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/incompatiblespace-flarum-ext-greek/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/incompatiblespace-flarum-ext-greek.json](https://github.com/flarchive/archive-index/blob/main/packages/incompatiblespace-flarum-ext-greek.json)
 
